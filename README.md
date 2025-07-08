@@ -1,6 +1,6 @@
 # 2025_f1_predictions
 
-# 🏎️ F1 Predictions 2025 - Machine Learning Model
+# 🏎️ F1 Predictions 2025 - Machine Learning Model.
 
 Welcome to the **F1 Predictions 2025** repository! This project uses **machine learning, FastF1 API data, and historical F1 race results** to predict race outcomes for the 2025 Formula 1 season.
 
